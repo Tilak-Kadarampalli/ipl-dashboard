@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.latest-cont {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 10px;
+  font-size: 14px;
+  font-family: 'Bree Serif';
+  color: white;
+}
+
+.latest-left-cont {
+  text-align: left;
+}
+.latest-img {
+  width: 190px;
+  height: 190px;
+}
+
+.latest-right-cont {
+  text-align: right;
+}

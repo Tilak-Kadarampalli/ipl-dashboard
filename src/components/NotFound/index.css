@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.notfound-head {
+  display: flex;
+  flex-direction: row;
+
+  color: white;
+  font-size: 32px;
+  font-family: 'Bree Serif';
+}
