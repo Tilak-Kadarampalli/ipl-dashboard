@@ -34,4 +34,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   width: 80vw;
+  height: 70vh;
+  overflow-y: scroll;
+  
 }
